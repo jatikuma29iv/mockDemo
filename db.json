@@ -1,0 +1,8 @@
+{
+  "project": [
+    {"id": "1001", "name":"JC-32", "location": "banglore", "country":"india", "client": "acme", "manager": "KM"}
+    ,{"id": "1002", "name":"JC-32", "location": "banglore", "country":"india", "client": "acme", "manager": "KM"}
+    ,{"id": "1003", "name":"JC-32", "location": "banglore", "country":"india", "client": "acme", "manager": "KM"}
+    ,{"id": "1004", "name":"JC-32", "location": "banglore", "country":"india", "client": "acme", "manager": "KM"}
+  ]
+}
